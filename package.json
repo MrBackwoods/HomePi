@@ -1,0 +1,19 @@
+{
+  "name": "HomePi",
+  "version": "1.0.0",
+  "description": "HomePi 1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "author": "J. Rokkanen",
+  "license": "Creative Commons",
+  "dependencies": {
+    "express": "^4.16.3",
+    "express-basic-auth": "^1.1.5",
+    "node-cmd": "^3.0.0",
+    "node-dht-sensor": "0.0.34",
+    "node-raspi": "^1.0.1",
+    "nodemailer": "^4.6.7"
+  }
+}
